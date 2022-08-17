@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>George Menz</title>
+    <link href="./resources/css/index.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+    <nav>
+        <a href="./index.html">Home</a>
+        <a href="./portfolio.html">Portfolio</a>
+        <a href="./resume.html">Resume</a>
+        <a href="./contact.html">Contact</a>
+    </nav>
+    <header>
+        <h1>George Menz</h1>
+        <h3 style="text-align: center;"> Writer, Developer</h3>
+    </header>
+    <main>
+        <p id="intro">My little home on the information superhighway.</p>
+
+        <p class="date">8.17.2022</p>
+        <p>Love is a curious thing.</p>
+
+    </main>
+</body>
+</html>
